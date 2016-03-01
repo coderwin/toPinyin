@@ -1,0 +1,26 @@
+{
+  "name": "topinyin",
+  "version": "0.0.1",
+  "description": "chinese to pinyin with javascript",
+  "main": "toPinyin.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "pinyin",
+    "topinyin",
+    "chinese",
+    "js"
+  ],
+  "author": "imChenJian",
+  "license": "MIT",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-rename": "^1.2.2"
+  },
+  "devDependencies": {}
+}
